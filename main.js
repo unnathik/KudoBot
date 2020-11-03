@@ -2,7 +2,7 @@ const { Client, MessageEmbed} = require('discord.js');
 
 const bot = new Client();
 
-const token = "";
+const token = "TOKEN";
 
 const PREFIX = "k!";
 
